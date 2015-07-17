@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\users\marc-andré\desktop\windows store\norwegian vocabulary\vocabulary.source-v1.0.1.0\appstudio.common\bin\debug\appstudio.common.dll" HashGuid="cb8c572f-8c49-4c0e-836c-26c4dba33f70" />
+    <ReferenceAssembly PathName="c:\users\marc-andré\desktop\windows store\norwegian vocabulary\vocabulary.source-v1.0.1.0\appstudio.dataproviders\bin\debug\appstudio.dataproviders.dll" HashGuid="9973ee3b-57b1-901b-cf1d-946d40c873d2" />
+    <ReferenceAssembly PathName="c:\users\marc-andré\desktop\windows store\norwegian vocabulary\vocabulary.source-v1.0.1.0\packages\htmlagilitypack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="365e4636-8cbf-8d2d-3790-d3267e801443" />
+    <ReferenceAssembly PathName="c:\users\marc-andré\desktop\windows store\norwegian vocabulary\vocabulary.source-v1.0.1.0\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
+    <ReferenceAssembly PathName="c:\users\marc-andré\desktop\windows store\norwegian vocabulary\vocabulary.source-v1.0.1.0\vocabulary\bin\debug\vocabulary.dll" HashGuid="5583759f-73de-5d0b-e4c8-919b34a0214f" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

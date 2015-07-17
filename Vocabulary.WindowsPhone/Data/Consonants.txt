@@ -1,0 +1,39 @@
+b - like 'b' in "book" 
+
+c - like 'c' in "cat" (mostly foreign words) 
+
+d - like 'd' in "dog" 
+
+f - like 'f' in "face" 
+
+g - like 'g' in "good", like 'y' in "yes" (before i or j), silent at the end of words 
+
+h - like 'h' in "hat" 
+
+j - like 'y' in "yes" 
+
+k - like 'k' in "keep", like 'ch' in Scottish "loch" (before i or j) 
+
+l - like 'l' in "late" 
+
+m - like 'm' in "mouse" 
+
+n - like 'n' in "nice" 
+
+p - like 'p' in "push" 
+
+q - like 'q' in "quick" (mostly foreign words) 
+
+r - like 'r' in "feather" (very soft, as in German) 
+
+s - like 's' in "sun" (not like 'z' in "zap") 
+
+t - like 't' in "top" 
+
+v - like 'v' in "viper" 
+
+w - like 'w' in "water" (mostly foreign words) 
+
+x - like 'x' in "box" (mostly foreign words) 
+
+z - like 'z' in "zipper" (mostly foreign words)

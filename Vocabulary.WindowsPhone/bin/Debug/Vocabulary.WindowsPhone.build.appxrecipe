@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARCB</Machine>
+    <WindowsUser>Marc-André</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>daaa6bd3-8302-4ae4-b113-b57bf53149cb</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Vocabulary.WindowsPhone.exe">
+      <PackagePath>Vocabulary.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\AppStudio.Common\bin\Debug\AppStudio.Common.dll">
+      <PackagePath>AppStudio.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\AppStudio.DataProviders\bin\Debug\AppStudio.DataProviders.dll">
+      <PackagePath>AppStudio.DataProviders.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary\bin\Debug\Vocabulary.dll">
+      <PackagePath>Vocabulary.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\ApplicationLogo.png">
+      <PackagePath>Assets\ApplicationLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Logo.scale-120.png">
+      <PackagePath>Assets\Logo.scale-120.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Logo.scale-170.png">
+      <PackagePath>Assets\Logo.scale-170.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Logo.scale-360.png">
+      <PackagePath>Assets\Logo.scale-360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Logo.scale-99.png">
+      <PackagePath>Assets\Logo.scale-99.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\SmallLogo.scale-70.png">
+      <PackagePath>Assets\SmallLogo.scale-70.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Tiles\FlipSquareTile.png">
+      <PackagePath>Assets\Tiles\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Tiles\FlipSquareTile210.png">
+      <PackagePath>Assets\Tiles\FlipSquareTile210.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Tiles\FlipWideTile.png">
+      <PackagePath>Assets\Tiles\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\WideLogo.scale-210.png">
+      <PackagePath>Assets\WideLogo.scale-210.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\WideLogo.scale-360.png">
+      <PackagePath>Assets\WideLogo.scale-360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.Shared\Assets\Design\DarkGray.png">
+      <PackagePath>Assets\Design\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.Shared\Assets\Design\LightGray.png">
+      <PackagePath>Assets\Design\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.Shared\Assets\Design\MediumGray.png">
+      <PackagePath>Assets\Design\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.Shared\Assets\DataImages\FlipSquareTile.png">
+      <PackagePath>Assets\DataImages\FlipSquareTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.Shared\Assets\DataImages\FlipWideTile.png">
+      <PackagePath>Assets\DataImages\FlipWideTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img1.jpg">
+      <PackagePath>Assets\BackgroundImage\Img1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img2.jpg">
+      <PackagePath>Assets\BackgroundImage\Img2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img3.jpg">
+      <PackagePath>Assets\BackgroundImage\Img3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img4.jpg">
+      <PackagePath>Assets\BackgroundImage\Img4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img5.jpg">
+      <PackagePath>Assets\BackgroundImage\Img5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Icons\News.jpg">
+      <PackagePath>Assets\Icons\News.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Icons\Practice.jpg">
+      <PackagePath>Assets\Icons\Practice.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Icons\Pronounce.jpg">
+      <PackagePath>Assets\Icons\Pronounce.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Icons\Read.jpg">
+      <PackagePath>Assets\Icons\Read.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Icons\Settings.jpg">
+      <PackagePath>Assets\Icons\Settings.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\Icons\Test.jpg">
+      <PackagePath>Assets\Icons\Test.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img6.jpg">
+      <PackagePath>Assets\BackgroundImage\Img6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img7.jpg">
+      <PackagePath>Assets\BackgroundImage\Img7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img8.jpg">
+      <PackagePath>Assets\BackgroundImage\Img8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img9.jpg">
+      <PackagePath>Assets\BackgroundImage\Img9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img10.jpg">
+      <PackagePath>Assets\BackgroundImage\Img10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img11.jpg">
+      <PackagePath>Assets\BackgroundImage\Img11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img12.jpg">
+      <PackagePath>Assets\BackgroundImage\Img12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img13.jpg">
+      <PackagePath>Assets\BackgroundImage\Img13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img14.jpg">
+      <PackagePath>Assets\BackgroundImage\Img14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img15.jpg">
+      <PackagePath>Assets\BackgroundImage\Img15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img16.jpg">
+      <PackagePath>Assets\BackgroundImage\Img16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Assets\BackgroundImage\Img17.jpg">
+      <PackagePath>Assets\BackgroundImage\Img17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics1.txt">
+      <PackagePath>Data\basics1.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\colors.txt">
+      <PackagePath>Data\colors.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\daysandmonths.txt">
+      <PackagePath>Data\daysandmonths.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\numbers.txt">
+      <PackagePath>Data\numbers.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\Consonants.txt">
+      <PackagePath>Data\Consonants.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\Diphthongs.txt">
+      <PackagePath>Data\Diphthongs.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\Exceptions.txt">
+      <PackagePath>Data\Exceptions.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\time.txt">
+      <PackagePath>Data\time.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\Vowels.txt">
+      <PackagePath>Data\Vowels.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.Shared\Assets\Design\Data.json">
+      <PackagePath>Assets\Design\Data.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.Shared\Assets\Design\TouchDevelopData.json">
+      <PackagePath>Assets\Design\TouchDevelopData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Controls\ErrorNotificationControl.xbf">
+      <PackagePath>Controls\ErrorNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\AppBarButtons.xbf">
+      <PackagePath>Styles\AppBarButtons.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\AppTheme.xbf">
+      <PackagePath>Styles\AppTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\DefaultTheme.xbf">
+      <PackagePath>Styles\DefaultTheme.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Controls\ConnectionNotificationControl.xbf">
+      <PackagePath>Controls\ConnectionNotificationControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Controls\ImageViewer.xbf">
+      <PackagePath>Controls\ImageViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Controls\YouTubeViewer.xbf">
+      <PackagePath>Controls\YouTubeViewer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\AboutThisAppPage.xbf">
+      <PackagePath>AboutThisAppPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\MenuPage.xbf">
+      <PackagePath>MenuPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\PracticePage.xbf">
+      <PackagePath>PracticePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\PracticePageDetails.xbf">
+      <PackagePath>PracticePageDetails.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\PronouncePage.xbf">
+      <PackagePath>PronouncePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\SettingsPage.xbf">
+      <PackagePath>SettingsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Views\NewsListPage.xbf">
+      <PackagePath>Views\NewsListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Views\NewsDetailPage.xbf">
+      <PackagePath>Views\NewsDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\FontSizes.xbf">
+      <PackagePath>Styles\FontSizes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\ButtonStyles.xbf">
+      <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\GridView.xbf">
+      <PackagePath>Styles\GridView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\Layouts\DetailLayouts.xbf">
+      <PackagePath>Styles\Layouts\DetailLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\Layouts\ListLayouts.xbf">
+      <PackagePath>Styles\Layouts\ListLayouts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Styles\PlatformStyles.xbf">
+      <PackagePath>Styles\PlatformStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Vocabulary.WindowsPhone.xr.xml">
+      <PackagePath>Vocabulary.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

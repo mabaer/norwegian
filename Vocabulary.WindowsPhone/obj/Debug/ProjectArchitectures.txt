@@ -1,0 +1,7 @@
+C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\AppStudio.Common\AppStudio.Common.csproj;neutral
+C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\AppStudio.Common\AppStudio.Common.csproj;neutral
+C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\AppStudio.DataProviders\AppStudio.DataProviders.csproj;neutral
+C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\AppStudio.DataProviders\AppStudio.DataProviders.csproj;neutral
+C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\AppStudio.DataProviders\AppStudio.DataProviders.csproj;neutral
+C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Vocabulary.WindowsPhone.csproj;neutral
+C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary\Vocabulary.csproj;neutral

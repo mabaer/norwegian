@@ -1,0 +1,24 @@
+﻿time
+now	nå
+later	senere
+before	tidligere
+morning	morgen
+afternoon	ettermiddag	
+evening	kveld
+night	natt
+8:00	klokka åtte null null
+19:49	klokka nitten førti sni
+1:01	klokka et null en
+2:00	klokka 2
+2:05	fem over 2
+2:10	ti over 2
+2:15	kvart over 2
+2:20	ti på halv 3
+2:25	fem på halv 3
+2:30	halv 3
+minute(s)	minutt(er)
+hour(s)	time(r)
+day(s)	dag(er)
+week(s)	uke(r)
+month(s)	måned(er)
+year(s)	år

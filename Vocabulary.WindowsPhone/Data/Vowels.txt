@@ -1,0 +1,21 @@
+Each vowel can be pronounced either as "long" or "short". 
+A short vowel is always be followed by a double consonant (i.e. two similar consonants, such as ll or tt). 
+A long vowel is not. For example, in Norwegian "it" will be pronounced as in 'eet', whereas "itt" will be pronounced as english 'iht'. 
+
+The Norwegian vowels are pronounced in almost the same way as in German. There are three additional vowels. æ (Æ), ø (Ø), and å (Å). 
+
+a - like 'a' in "father" 
+
+e - like 'e' in "better" (but like æ if it is followed by an r) 
+
+i - like 'i' in "pin" o (short) - like 'o' in "lord" o (long) - like 'oo' in "spooky" 
+
+u - like 'oo' in "foot" 
+
+y - like 'i' in "pin" (but firmer; y doesn't correspond to any sound in English. English speakers may have difficulty distinguishing Norwegian's i and y.) 
+
+æ - like 'a' in "hat" 
+
+ø - like 'u' in "burn" 
+
+å - like 'o' in "lord"

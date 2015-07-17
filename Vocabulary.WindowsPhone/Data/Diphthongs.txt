@@ -1,0 +1,33 @@
+ei - like 'a' in "babe" (æ-i) 
+
+ai - like 'i' in "pine" (a-i) 
+
+au - like 'ou' in "mouse" (æ-u) 
+
+oi - like 'oy' in "boy" (å-y) 
+
+øy - like 'ooey' in "gooey" (ø-y) 
+
+sj - like 'sh' in "shoe" 
+
+skj - like 'sh' in "shoe" 
+
+rs - like 'sh' in "shoe" 
+
+kj - like 'ch' in Scottish "loch", German "ich", very similar to Greek '?' 
+
+ng - like 'ng' in "long" 
+
+rt - like 'rt' in "art" 
+
+rn - like 'rn' in "burn" 
+
+ld - like 'll' in "ball" (makes vowels long, too) 
+
+nd - like 'nn' in "banner" (makes vowels long) 
+
+hj - like 'y' in "yes" 
+
+hv - like 'v' in "victory" 
+
+lj - like 'y' in "yes" (rare)

@@ -1,0 +1,11 @@
+﻿colors
+black	svart
+white	hvit
+gray	grå
+red	rød
+blue	blå
+yellow	gul
+green	grønn
+orange	orange
+purple	lilla
+brown	brun

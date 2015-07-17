@@ -1,0 +1,42 @@
+﻿numbers
+1	en
+2	to
+3	tre
+4	fire
+5	fem
+6	seks
+7	syv
+8	åtte
+9	ni
+10	ti
+11	elleve
+12	tolv
+13	tretten
+14	fjorten
+15	femten
+16	seksten
+17	sytten
+18	atten
+19	nitten
+20	tjue
+21	tjue en
+22	tjue to
+23	tjue tre
+30	tretti
+40	førti
+50	femti
+60	seksti
+70	sytti
+80	åtti
+90	nitti
+100	ett hundre
+200	to hundre
+300	tre hundre
+1000	ett tusen
+1021	ett tusen og tjue en
+1100	ett tusen ett hundre
+2000	to-tusen
+1000000	en million
+half	halv
+less	mindre
+more	mer
