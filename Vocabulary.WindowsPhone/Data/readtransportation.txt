@@ -1,0 +1,90 @@
+﻿###Bus & Train###
+How much is a ticket to _____? - Hvor mye koster en billett til _____? 
+
+One ticket to _____, please. - Kan jeg få en billett til _____. 
+
+Where does this train/bus go? - Hvor går dette toget/denne bussen? 
+
+Where is the train/bus to _____? - Hvor finner jeg toget/bussen til _____? 
+
+Does this train/bus stop in _____? - Stopper dette toget/denne bussen i _____? 
+
+When does the train/bus for _____ leave? - Når reiser toget/bussen til _____? 
+
+When will this train/bus arrive in _____? - Når kommer vi fram til _____?
+
+###Directions###
+How do I get to _____ ? - Hvordan kommer jeg til _____ ? 
+
+...the train station? - ...togstasjonen? 
+
+...the bus station? - ...bussholdeplassen? 
+
+...the airport? - ...flyplassen? 
+
+...downtown? - ...sentrum? 
+
+...the youth hostel? - ...ungdomsherberget? 
+
+...the _____ hotel? - ... _____ hotel? 
+
+...the American/Canadian/Australian/British embassy/consulate? - ...den amerikanske/kanadiske/australske/britiske ambassade/konsulat? 
+
+Where are there (a lot) of... - Hvor kan jeg finne (mange)... 
+
+...hotels? - ...hoteller? 
+
+...restaurants? - ...restauranter? (res-tu-rang-er) 
+
+...bars? - ...barer? 
+
+...sites to see? - ...turistattraksjoner? (tu-rist-att-rak-sjo-ner) 
+
+Can you show me ____ on the map? - Kan du vise meg ___ på kartet? 
+
+street - gate/vei 
+
+Turn left. - Snu til venstre. 
+
+Turn right. - Snu til høyre. 
+
+left - venstre (venn-stre) 
+
+right - høyre (høy-re) 
+
+straight ahead - rett fram/rett framover 
+
+towards the _____ - mot _____ 
+
+past the _____ - forbi _____ 
+
+before the _____ - rett før _____ 
+
+Watch for the _____. - Se etter _____. 
+
+intersection - kryss 
+
+roundabout - rundkjøring (runn-kjø-ring) 
+
+north - nord 
+
+south - sør 
+
+east - øst 
+
+west - vest 
+
+uphill - oppover(bakke) (åpp-åv-er-bakk-e) 
+
+downhill - nedover(bakke) (ned-åv-er-bakk-e)
+
+###Taxi###
+Taxi! - Taxi!
+*Note* To get a taxi, either call one by phone, walk to a taxi stop, or wave your hand if you see one (with a lighted roof-sign) driving past. 
+
+Take me to _____, please. - Kan du kjøre meg til _____. 
+
+How much does it cost to get to _____? - Hvor mye vil det koste å kjøre til _____?
+*Note* Unless it's a really long (several hours) and thus ridiculously expensive drive where you can make a special deal with the driver, it's gonna cost as much as the meter shows. Expect an approximate reply if any. 
+
+Take me there, please. - Kan du kjøre meg dit?

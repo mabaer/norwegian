@@ -1,1 +1,94 @@
-﻿
+﻿basics3
+they	de
+no/none	ingen
+a ferry	en ferge
+23	tjuetre
+an hour	en time
+space/spot (en)	plass
+many	mange
+a passenger	en passasjer
+a car	en bil
+a lorry	en lastebil
+a bus	en buss
+a restaurant	en restaurant
+cafeteria (en)	kafeteria
+a bar	en bar
+on board	ombord
+small	liten
+cabin (en)	lugar
+a bunk	en køye
+hungry	sultne
+thirsty	tørste
+to eat	å spise
+dinner (en)	middag
+this	dette
+fine	fin
+here	her
+cold buffet (et)	koldtbord
+a table (et)	bord
+typical	typisk
+Scandinavian	skandinavisk
+much	mye
+food (en)	mat
+fish (en)	fisk
+a prawn	en reke
+meat	kjøtt
+a salad	en salat
+much	meget
+bottle (en)	flaske
+wine (en)	vin
+red wine	rødvin
+white wine	hvitvin
+best	best
+to remember	å huske
+strictly	strengt
+forbidden	forbudt
+to drink	å drikke
+alcohol	alkohol
+always	alltid
+driving licence (et)	sertifikat
+to mind/look after	å passe
+speed limit (en)	fartsgrense
+right	høyre
+side (en)	side
+of	av
+to forget	å glemme
+light (et)	lys
+even if	selv om
+sun/sunshine (en)	sol
+more	mer
+enough	nok
+to say	å si
+well	godt
+Cheers!	Skål!
+you(plural)	dere
+back	tilbake
+long	lang
+friend (en)	venn
+to talk	å snakke
+a little	litt
+my (plural)	mine
+friends	venner
+breakfast (en)	frokost
+very	veldig
+to pay	å betale
+into	inn i
+boiled	kokt
+egg (et)	egg
+toasted	ristet
+bread (et)	brød
+marmalade (en)	marmelade
+herring (en)	sild
+to think	å tro
+rather	heller
+a bread roll	et rundstykker	
+a cheese	en ost
+a sausage/salami	en pølse
+milk (en)	melk
+to get/receive	å få
+tea (en)	te
+town/city (en)	by
+north	nord
+mountain (et)	fjell
+next	neste
+airport (en)	flypass

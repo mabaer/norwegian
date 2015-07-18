@@ -45,7 +45,7 @@ namespace Vocabulary
 
         private void Grid_Tapped2(object sender, TappedRoutedEventArgs e)
         {
-
+            Frame.Navigate(typeof(TestPage));
         }
 
         private void Grid_Tapped3(object sender, TappedRoutedEventArgs e)

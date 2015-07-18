@@ -1,1 +1,69 @@
-﻿
+﻿basics4
+the streets	gatene
+look around	ser seg om
+quay/dock	brygge
+here	her
+out/outside	ute
+shine/shines	skinner
+the sea (en)	sjøen
+blue	blå
+brown	brun
+a tower	et tårn
+there	der/dit
+away	borte
+over there	der borte
+look(s) like	likner
+a goat-cheese	en geitost
+a City Hall	et Rådhuset
+a castle	en festning
+a king	en konge
+a queen	en dronningen
+a Palace	et Slottet
+to work	å arbeide
+large/big	stort
+a house	et hus
+far	langt
+first	først
+the tram (en)	trikken
+yellow	gul
+building (en)	bygning
+to lie	å ligge
+beautiful	vakker
+green	grønn
+park	park
+afterwards	etterpå
+pretty/good-looking	pen
+much	mye
+better	bedre
+good	godt
+open	åpen
+everybody/all	alle
+left	venstre
+an embassy	en ambassade
+British	britiske
+it	den
+get off	gå av
+who	hvem
+made	laget
+these	disse
+a sculpture	en skulptur
+a fountain	en fontene
+a gate	en port
+the monolith (en)	monolitten
+granite (en)	granitt
+them	dem
+fat	tykk
+to be of the opinion	å synes
+bronze	bronse
+the bridge (en)	broen
+cross	sint
+the boy (en)	gutten
+sweet	søt
+the girl (en)	piken
+surely	sikkert
+around	rundt
+again	igjen
+water (et)	vann
+main street (en)	hovedgate
+past	forbi
+to stop	å stoppe

@@ -43,9 +43,9 @@ namespace Vocabulary
             using (StreamReader sRead = new StreamReader(await file.OpenStreamForReadAsync(), Encoding.GetEncoding("iso-8859-1")))
             fileContent = await sRead.ReadToEndAsync();
 
-            titleHeader.Text = "read";
+            titleHeader.Text = "read - " + e.Parameter.ToString().Substring(4);
 
-
+            textbox1.Text = fileContent;
         }
     }
 }

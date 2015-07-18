@@ -1,0 +1,47 @@
+﻿Do you have any rooms available? - Har du noen ledige rom? 
+
+How much is a room for one person/two people? - Hvor mye koster et enkelt/dobbelt-rom? 
+
+Are bedsheets included in the price? - Er sengetøy inkludert i prisen? 
+
+I would like some bedsheets - Kan jeg få med sengetøy? 
+
+Does the room come with... - Har rommet... 
+
+...a bathroom? - ...eget bad? 
+
+...a telephone? - ...egen telefon? 
+
+...a TV? - ...TV? (te-ve) 
+
+May I see the room first? - Kan jeg få se rommet først? 
+
+Do you have anything _____? - Har du et _____ rom? 
+
+...quieter - ...mer stille 
+
+...bigger - ...større 
+
+...cleaner - ...renere 
+
+...cheaper - ...billigere? 
+
+OK, I'll take it. - OK, jeg tar det. (o-kå, jei tar de) 
+
+I will stay for _____ night(s). - Jeg blir her _____ natt/netter. 
+
+Can you suggest another hotel? - Har du et annet hotell å foreslå? 
+
+Do you have a safe? - Har du en safe? (har du en seif) 
+
+Do you have a locker? - Har du ett låsbart skap? 
+
+Is breakfast/supper included? - Er frokost/middag inkludert? 
+
+What time is breakfast/supper? - Når er det frokost/middag? 
+
+Please clean my room. - Kan du vaske rommet mitt. 
+
+Can you wake me at _____? - Kan du vekke meg klokka _____? 
+
+I want to check out. - Kan jeg få sjekke ut nå?

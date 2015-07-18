@@ -157,7 +157,16 @@
     <Content Include="Data\Consonants.txt" />
     <Content Include="Data\Diphthongs.txt" />
     <Content Include="Data\Exceptions.txt" />
+    <Content Include="Data\readauthority.txt" />
+    <Content Include="Data\readbars.txt" />
     <Content Include="Data\readbasics.txt" />
+    <Content Include="Data\readdriving.txt" />
+    <Content Include="Data\readeating.txt" />
+    <Content Include="Data\readlodging.txt" />
+    <Content Include="Data\readmoney.txt" />
+    <Content Include="Data\readproblems.txt" />
+    <Content Include="Data\readshopping.txt" />
+    <Content Include="Data\readtransportation.txt" />
     <Content Include="Data\time.txt" />
     <Content Include="Data\Vowels.txt" />
   </ItemGroup>
@@ -240,6 +249,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="TestPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestPageDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\NewsListPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -252,6 +269,12 @@
     </Compile>
     <Compile Include="SettingsPage.xaml.cs">
       <DependentUpon>SettingsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestPage.xaml.cs">
+      <DependentUpon>TestPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestPageDetails.xaml.cs">
+      <DependentUpon>TestPageDetails.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\NewsListPage.xaml.cs">
       <DependentUpon>NewsListPage.xaml</DependentUpon>

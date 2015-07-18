@@ -245,6 +245,15 @@
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics1.txt">
       <PackagePath>Data\basics1.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics2.txt">
+      <PackagePath>Data\basics2.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics3.txt">
+      <PackagePath>Data\basics3.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics4.txt">
+      <PackagePath>Data\basics4.txt</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\colors.txt">
       <PackagePath>Data\colors.txt</PackagePath>
     </AppxPackagedFile>
@@ -262,6 +271,36 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\Exceptions.txt">
       <PackagePath>Data\Exceptions.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readauthority.txt">
+      <PackagePath>Data\readauthority.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readbars.txt">
+      <PackagePath>Data\readbars.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readbasics.txt">
+      <PackagePath>Data\readbasics.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readdriving.txt">
+      <PackagePath>Data\readdriving.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readeating.txt">
+      <PackagePath>Data\readeating.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readlodging.txt">
+      <PackagePath>Data\readlodging.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readmoney.txt">
+      <PackagePath>Data\readmoney.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readproblems.txt">
+      <PackagePath>Data\readproblems.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readshopping.txt">
+      <PackagePath>Data\readshopping.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\readtransportation.txt">
+      <PackagePath>Data\readtransportation.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\time.txt">
       <PackagePath>Data\time.txt</PackagePath>
@@ -317,8 +356,20 @@
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\PronouncePage.xbf">
       <PackagePath>PronouncePage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\ReadPage.xbf">
+      <PackagePath>ReadPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\ReadPageDetails.xbf">
+      <PackagePath>ReadPageDetails.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\SettingsPage.xbf">
       <PackagePath>SettingsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\TestPage.xbf">
+      <PackagePath>TestPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\TestPageDetails.xbf">
+      <PackagePath>TestPageDetails.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\bin\Debug\Views\NewsListPage.xbf">
       <PackagePath>Views\NewsListPage.xbf</PackagePath>

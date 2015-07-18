@@ -39,7 +39,7 @@
                             </Grid.RowDefinitions>
                             <Image Grid.Row="0" Height="270" Source="{Binding Image}" VerticalAlignment="Bottom" Stretch="UniformToFill"/>
                             <Border Grid.Row="0" Background="#A5000000" Height="80" VerticalAlignment="Bottom">
-                                <TextBlock Text="{Binding Translation}" FontFamily="Segoe UI" FontSize="26.667" 
+                                <TextBlock Text="{Binding Translation}" FontFamily="Segoe UI" FontSize="20" 
                                  Foreground="#CCFFFFFF" Padding="15,20"/>
                             </Border>
                         </Grid>

@@ -38,6 +38,33 @@
                 <StackPanel x:Name="readbasics" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
                     <TextBlock Text="Basics" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
+                <StackPanel x:Name="readproblems" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Problems" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readtransportation" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Transportation" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readlodging" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Lodging" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readmoney" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Money" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readeating" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Eating" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readbars" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Bars" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readshopping" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Shopping" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readdriving" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Driving" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="readauthority" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock Text="Authority" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
             </ListView.Items>
         </ListView>
 

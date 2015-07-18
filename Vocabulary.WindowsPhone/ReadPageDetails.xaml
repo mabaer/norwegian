@@ -27,7 +27,13 @@
         <Grid Grid.Row="1" Background="{StaticResource AppBackground}">
             <TextBlock x:Name="titleHeader" x:Uid="MenuSection" Margin="12,0"  Text="read" FontSize="36" Style="{StaticResource PageTitleStyle}" />
         </Grid>
-        
-        
+
+        <Grid Grid.Row="2" Background="{StaticResource AppBackground}">
+            <ScrollViewer Margin="12,20"
+                              HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto">
+                <TextBlock x:Name="textbox1" TextWrapping="Wrap" Text="" Foreground="{StaticResource PageTitleForeground}" FontSize="12"/>
+            </ScrollViewer>
+        </Grid>
+
     </Grid>
 </Page>
