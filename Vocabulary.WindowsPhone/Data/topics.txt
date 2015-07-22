@@ -1,0 +1,10 @@
+﻿numbers
+time
+colors
+days
+basics1
+basics2
+basics3
+basics4
+basics5
+basics6

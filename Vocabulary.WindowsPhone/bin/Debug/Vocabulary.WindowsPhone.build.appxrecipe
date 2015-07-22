@@ -254,11 +254,17 @@
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics4.txt">
       <PackagePath>Data\basics4.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics5.txt">
+      <PackagePath>Data\basics5.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\basics6.txt">
+      <PackagePath>Data\basics6.txt</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\colors.txt">
       <PackagePath>Data\colors.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\daysandmonths.txt">
-      <PackagePath>Data\daysandmonths.txt</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\days.txt">
+      <PackagePath>Data\days.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\numbers.txt">
       <PackagePath>Data\numbers.txt</PackagePath>
@@ -304,6 +310,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\time.txt">
       <PackagePath>Data\time.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\topics.txt">
+      <PackagePath>Data\topics.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc-André\Desktop\Windows Store\Norwegian Vocabulary\Vocabulary.Source-v1.0.1.0\Vocabulary.WindowsPhone\Data\Vowels.txt">
       <PackagePath>Data\Vowels.txt</PackagePath>

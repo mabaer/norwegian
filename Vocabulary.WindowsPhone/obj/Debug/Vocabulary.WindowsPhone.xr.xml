@@ -361,15 +361,13 @@
     <RootType FullName="Vocabulary.PronouncePage" />
     <RootType FullName="Vocabulary.ReadPage" />
     <RootType FullName="Vocabulary.ReadPageDetails" />
-    <RootType FullName="Vocabulary.SettingsPage" />
-    <RootType FullName="Vocabulary.TestPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
-      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Foreground" />
       <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Width" />
-      <RootProperty Name="Foreground" />
-      <RootProperty Name="Content" />
       <RootProperty Name="Style" />
       <RootProperty Name="Visibility" />
       <RootProperty Name="Command" />
@@ -379,6 +377,8 @@
       <RootProperty Name="FontWeight" />
       <RootEvent Name="Click" />
     </RootType>
+    <RootType FullName="Vocabulary.SettingsPage" />
+    <RootType FullName="Vocabulary.TestPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.MediaElement" />
     <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
       <RootProperty Name="Margin" />

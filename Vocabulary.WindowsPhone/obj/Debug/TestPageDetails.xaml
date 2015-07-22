@@ -35,20 +35,22 @@
             <Grid x:Name="questionGrid" Margin="0,40,0,0" Visibility="Collapsed">
                 <TextBlock x:Name="feedbacktext" Visibility="Collapsed" Margin="12,0,0,0" Text="Wrong answer!" FontSize="16" Foreground="#FFF70303" />                
                 <TextBlock x:Name="englishtext1" Margin="12,24,0,0" FontSize="24" Style="{StaticResource PageTitleStyle}"/>
-                <TextBox x:ConnectionId='3' x:Name="answerbox" Margin="12,64,12,0" IsSpellCheckEnabled="False"                             />
-                <Button x:ConnectionId='4' x:Name="solutionbutton" HorizontalAlignment="Left" Margin="12,112,0,0" VerticalAlignment="Top" Width="150" Content="Solution" Foreground="{StaticResource AppTitleForeground}"                              />
-                <Button x:ConnectionId='5' x:Name="solvebutton" HorizontalAlignment="Right" Margin="0,112,12,0" VerticalAlignment="Top" Width="150" Content="Solve" Foreground="{StaticResource AppTitleForeground}"                           />
+                <TextBox x:ConnectionId='4' x:Name="answerbox" Margin="12,64,12,0" IsSpellCheckEnabled="False"                             />
+                <Button x:ConnectionId='5' x:Name="solutionbutton" HorizontalAlignment="Left" Margin="12,112,0,0" VerticalAlignment="Top" Width="150" Content="Solution" Foreground="{StaticResource AppTitleForeground}"                              />
+                <Button x:ConnectionId='6' x:Name="solvebutton" HorizontalAlignment="Right" Margin="0,112,12,0" VerticalAlignment="Top" Width="150" Content="Solve" Foreground="{StaticResource AppTitleForeground}"                           />
             </Grid>
             <Grid x:Name="answerGrid" Margin="0,40,0,0" Visibility="Collapsed" >
                 <TextBlock x:Name="feedbacktext2" Visibility="Collapsed" Margin="12,0,0,0" Text="Correct!" FontSize="16" Foreground="#FF0D8A04" />
                 <TextBlock x:Name="englishtext2" Margin="12,24,0,0" FontSize="24" Style="{StaticResource PageTitleStyle}"/>
                 <TextBlock x:Name="norsktext" Margin="12,64,0,0" FontSize="20" Style="{StaticResource PageTitleStyle}"/>
-                <Button x:ConnectionId='1' x:Name="voicebutton" HorizontalAlignment="Right" Margin="0,64,12,0" VerticalAlignment="Top" Width="40" Foreground="{StaticResource AppTitleForeground}"                            Content="Listen" />
-                <Button x:ConnectionId='2' x:Name="nextbutton" HorizontalAlignment="Stretch" Margin="12,112,12,0" VerticalAlignment="Top" Content="Next" Foreground="{StaticResource AppTitleForeground}"                          />
+                <Button x:ConnectionId='2' x:Name="voicebutton" HorizontalAlignment="Right" Margin="0,64,12,0" VerticalAlignment="Top" Width="40" Foreground="{StaticResource AppTitleForeground}"                            Content="Listen" />
+                <Button x:ConnectionId='3' x:Name="nextbutton" HorizontalAlignment="Stretch" Margin="12,112,12,0" VerticalAlignment="Top" Content="Next" Foreground="{StaticResource AppTitleForeground}"                          />
                 <MediaElement x:Name="mediaelement" />
             </Grid>
             <Grid x:Name="resultGrid" Margin="0,40,0,0" Visibility="Collapsed">
                 <TextBlock x:Name="resulttext" Margin="12,24,12,12" FontSize="24" Style="{StaticResource PageTitleStyle}"/>
+                <TextBlock x:Name="resulttext2" Margin="12,64,12,12" FontSize="24" Style="{StaticResource PageTitleStyle}" TextWrapping="WrapWholeWords"/>
+                <Button x:ConnectionId='1' x:Name="repeatButton" Content="Repeat Wrong Words" Foreground="{StaticResource AppTitleForeground}" VerticalAlignment="Bottom" Margin="12,0,12,12" HorizontalAlignment="Stretch"                            />
             </Grid>
         </Grid>
     </Grid>

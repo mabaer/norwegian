@@ -29,7 +29,7 @@
         </Grid>
 
         <Grid Grid.Row="2" Margin="0,0" Background="{StaticResource AppBackground}">
-      
+            <Button x:Name="resetHighscores" Content="Reset Highscores" Foreground="{StaticResource AppTitleForeground}" Margin="12,24,12,0" HorizontalAlignment="Stretch" VerticalAlignment="Top" Click="resetHighscores_Click" />
         </Grid>
     </Grid>
 </Page>

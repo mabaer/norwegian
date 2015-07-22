@@ -28,36 +28,42 @@
             <TextBlock x:Uid="MenuSection" Margin="12,0"  Text="test" FontSize="36" Style="{StaticResource PageTitleStyle}" />
         </Grid>
 
-        <ListView Grid.Row="2" Background="{StaticResource AppBackground}" IsItemClickEnabled="True" ItemClick="ItemView_ItemClick" ContinuumNavigationTransitionInfo.ExitElementContainer="True" Margin="0,0,0,0" >
+        <ListView x:Name="listview" Grid.Row="2" Background="{StaticResource AppBackground}" IsItemClickEnabled="True" ItemClick="ItemView_ItemClick" ContinuumNavigationTransitionInfo.ExitElementContainer="True" Margin="0,0,0,0" >
             <ListView.Header>
                 <StackPanel Margin="24,0,0,0" >
                     <TextBlock Text="categories:" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" FontSize="24"/>
                 </StackPanel>
             </ListView.Header>
             <ListView.Items>
-                <StackPanel x:Name="numbers" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Numbers" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="numbers" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="numbers_1" Text="Numbers" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
-                <StackPanel x:Name="time" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Time" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="time" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="time_1" Text="Time" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
-                <StackPanel x:Name="colors" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Colors" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="colors" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="colors_1" Text="Colors" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0" />
                 </StackPanel>
-                <StackPanel x:Name="daysandmonths" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Days and Months" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="days" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="days_1" Text="Days" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
-                <StackPanel x:Name="basics1" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Basics1" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="basics1" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="basics1_1" Text="Basics1" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
-                <StackPanel x:Name="basics2" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Basics2" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="basics2" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="basics2_1" Text="Basics2" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
-                <StackPanel x:Name="basics3" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Basics3" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="basics3" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="basics3_1" Text="Basics3" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
-                <StackPanel x:Name="basics4" Width="270" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
-                    <TextBlock Text="Basics4" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                <StackPanel x:Name="basics4" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="basics4_1" Text="Basics4" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="basics5" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="basics5_1" Text="Basics5" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
+                </StackPanel>
+                <StackPanel x:Name="basics6" Width="300" Margin="32,12,0,0" Background="{StaticResource BoxBackground}" Opacity="0.7">
+                    <TextBlock x:Name="basics6_1" Text="Basics6" CommonNavigationTransitionInfo.IsStaggerElement="True" Style="{StaticResource PageTitleStyle}" Margin="12,0,0,0"/>
                 </StackPanel>
             </ListView.Items>
         </ListView>

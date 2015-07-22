@@ -93,9 +93,11 @@ Data\basics1.txt
 Data\basics2.txt
 Data\basics3.txt
 Data\basics4.txt
+Data\basics5.txt
+Data\basics6.txt
 Data\colors.txt
 Data\Consonants.txt
-Data\daysandmonths.txt
+Data\days.txt
 Data\Diphthongs.txt
 Data\Exceptions.txt
 Data\numbers.txt
@@ -110,4 +112,5 @@ Data\readproblems.txt
 Data\readshopping.txt
 Data\readtransportation.txt
 Data\time.txt
+Data\topics.txt
 Data\Vowels.txt

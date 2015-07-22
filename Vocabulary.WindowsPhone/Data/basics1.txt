@@ -23,7 +23,7 @@ yes	ja
 and	og
 to learn	å lære
 will	vil
-would like to	vi gjerne
+would like to	vil gjerne
 to travel	å reise
 to	til
 Norway	Norge

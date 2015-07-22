@@ -7,7 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.Phone.UI.Input;
 using Windows.Storage;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -35,6 +37,11 @@ namespace Vocabulary
         public int Count;
         public int Correct;
         public int Current;
+        public bool isFinished;
+        public string[] EnglishTextArray2;
+        public string[] NorskTextArray2;
+        public bool isRecap;
+        public int wrongCount;
         public TestPageDetails()
         {
             this.InitializeComponent();
@@ -81,6 +88,11 @@ namespace Vocabulary
             Count = fileContent.Split('\n').Length -1;
             EnglishTextArray = new string[Count];
             NorskTextArray = new string[Count];
+            EnglishTextArray2 = new string[Count];
+            NorskTextArray2 = new string[Count];
+            isFinished = false;
+            isRecap = false;
+            wrongCount = 0;
 
             //Add Data
             using (StringReader reader = new StringReader(fileContent))
@@ -119,11 +131,15 @@ namespace Vocabulary
 
         private void checkAnswer()
         {
-            if(String.Equals(answerbox.Text, NorskTextArray[Current - 1],
+            if(String.Equals(answerbox.Text, norsktext.Text,
                    StringComparison.OrdinalIgnoreCase))
             {
-                Correct++;
-                scoretext.Text = "Score: " + Correct + "/" + Count;
+                if(!isRecap)
+                {
+                    Correct++;
+                    scoretext.Text = "Score: " + Correct + "/" + Count;
+                }
+                
                 questionGrid.Visibility = Visibility.Collapsed;
                 answerGrid.Visibility = Visibility.Visible;
                 feedbacktext2.Visibility = Visibility.Visible;
@@ -149,6 +165,12 @@ namespace Vocabulary
 
         private void solutionbutton_Click(object sender, RoutedEventArgs e)
         {
+            if(!isRecap)
+            {
+                EnglishTextArray2[wrongCount] = englishtext1.Text;
+                NorskTextArray2[wrongCount] = norsktext.Text;
+                wrongCount++;
+            }          
             questionGrid.Visibility = Visibility.Collapsed;
             answerGrid.Visibility = Visibility.Visible;        
         }
@@ -161,25 +183,74 @@ namespace Vocabulary
                 Current++;
                 //Add information to UI
                 counttext.Text = "Word " + Current + " of " + Count;
-                englishtext1.Text = EnglishTextArray[Current-1];
-                englishtext2.Text = EnglishTextArray[Current-1];
+                if(isRecap)
+                {
+                    englishtext1.Text = EnglishTextArray2[Current - 1];
+                    englishtext2.Text = EnglishTextArray2[Current - 1];
+                    norsktext.Text = NorskTextArray2[Current - 1];
+                }
+                else
+                {
+                    englishtext1.Text = EnglishTextArray[Current - 1];
+                    englishtext2.Text = EnglishTextArray[Current - 1];
+                    norsktext.Text = NorskTextArray[Current - 1];
+                }
                 answerbox.Text = "";
-                norsktext.Text = NorskTextArray[Current-1];
                 answerGrid.Visibility = Visibility.Collapsed;
                 questionGrid.Visibility = Visibility.Visible;
             }
             else
             {
+                //Recap case
+                if(isRecap)
+                {
+                    counttext.Text = "";
+                    scoretext.Text = "";
+                    resulttext.Text = "You finished the recap.";
+                    resulttext2.Text = "";
+                    repeatButton.Visibility = Visibility.Collapsed;
+                    answerGrid.Visibility = Visibility.Collapsed;
+                    resultGrid.Visibility = Visibility.Visible;
+                    return;
+                }
+                //Normal end
                 counttext.Text = "";
                 scoretext.Text = "";
                 resulttext.Text = "You solved " + Correct + " of " + Count + " correct words.";
+                resulttext2.Text = "";
+                if (ApplicationData.Current.LocalSettings.Values.ContainsKey(Topic))
+                {
+                    int HighScore;
+                    HighScore = (int)(ApplicationData.Current.LocalSettings.Values[Topic]);
+                    if(HighScore < Correct)
+                    {
+                        resulttext2.Text = "Congratulation!!! You got a new highscore!";
+                        ApplicationData.Current.LocalSettings.Values[Topic] = Correct;
+                        ApplicationData.Current.LocalSettings.Values[Topic + "Count"] = Count;
+                    }
+                }
+                else
+                {
+                    resulttext2.Text = "Congratulation!!! You got a new highscore!";
+                    ApplicationData.Current.LocalSettings.Values[Topic] = Correct;
+                    ApplicationData.Current.LocalSettings.Values[Topic+"Count"] = Count;
+                }
+                isFinished = true;
+                if(Correct != Count)
+                {
+                    repeatButton.Visibility = Visibility.Visible;
+                }
+                else
+                {
+                    repeatButton.Visibility = Visibility.Collapsed;
+                }
                 answerGrid.Visibility = Visibility.Collapsed;
                 resultGrid.Visibility = Visibility.Visible;
             }
             
         }
 
-        private async void listenbutton_Click(object sender, RoutedEventArgs e)
+        private void listenbutton_Click(object sender, RoutedEventArgs e)
         {
             //Build url string
             var urlPart1 = "http://translate.google.de/translate_tts?ie=UTF-8&q=";
@@ -204,6 +275,22 @@ namespace Vocabulary
             {
                 checkAnswer();
             }
+        }
+
+        private void repeatButton_Click(object sender, RoutedEventArgs e)
+        {
+            //Reset everything
+            isRecap = true;
+            Count = wrongCount;
+            Current = 1;
+            englishtext1.Text = EnglishTextArray2[Current - 1];
+            englishtext2.Text = EnglishTextArray2[Current - 1];
+            norsktext.Text = NorskTextArray2[Current - 1];
+            answerbox.Text = "";
+            counttext.Text = "Word " + Current + " of " + Count;
+            answerGrid.Visibility = Visibility.Collapsed;
+            resultGrid.Visibility = Visibility.Collapsed;
+            questionGrid.Visibility = Visibility.Visible;
         }
     }
 }

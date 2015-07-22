@@ -151,8 +151,10 @@
     <Content Include="Data\basics2.txt" />
     <Content Include="Data\basics3.txt" />
     <Content Include="Data\basics4.txt" />
+    <Content Include="Data\basics5.txt" />
+    <Content Include="Data\basics6.txt" />
     <Content Include="Data\colors.txt" />
-    <Content Include="Data\daysandmonths.txt" />
+    <Content Include="Data\days.txt" />
     <Content Include="Data\numbers.txt" />
     <Content Include="Data\Consonants.txt" />
     <Content Include="Data\Diphthongs.txt" />
@@ -168,6 +170,7 @@
     <Content Include="Data\readshopping.txt" />
     <Content Include="Data\readtransportation.txt" />
     <Content Include="Data\time.txt" />
+    <Content Include="Data\topics.txt" />
     <Content Include="Data\Vowels.txt" />
   </ItemGroup>
   <ItemGroup>

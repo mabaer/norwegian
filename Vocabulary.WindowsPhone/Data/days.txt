@@ -1,0 +1,26 @@
+﻿days
+today	i dag
+yesterday	i går
+tomorrow	i morgen
+this week	denne uka
+last week	forrige uke
+next week	neste uke
+Sunday	Søndag
+Monday	Mandag
+Tuesday	Tirsdag
+Wednesday	Onsdag
+Thursday	Torsdag
+Friday	Fredag
+Saturday	Lørdag
+January	Januar
+February	Februar
+March	Mars
+April	April
+May	Mai
+June	Juni
+July	Juli
+August	August
+September	September
+October	Oktober
+November	November
+December	Desember
