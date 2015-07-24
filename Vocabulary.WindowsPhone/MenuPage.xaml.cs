@@ -15,7 +15,24 @@ using Windows.UI.Xaml.Navigation;
 using System.Threading.Tasks;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkID=390556
-
+/*
+ *  Copyright 2015 Marc-André Bär
+ 
+ *  This project is for educational use only.
+ 
+ *  This file is part of Norsk_Vocabulary.
+    Norsk_Vocabulary is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    Norsk_Vocabulary is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    You should have received a copy of the GNU General Public License
+    along with Norsk_Vocabulary If not, see <http://www.gnu.org/licenses/>.
+  
+ */
 namespace Vocabulary
 {
     /// <summary>
@@ -60,6 +77,7 @@ namespace Vocabulary
 
         private async void Grid_Tapped5(object sender, TappedRoutedEventArgs e)
         {
+            //Enable Progressbar and wait a static time of 1 second for loading of the rss feed
             progressBar.Visibility = Visibility.Visible;
             await Task.Delay(TimeSpan.FromSeconds(1));
             Frame.Navigate(typeof(MainPage));
@@ -77,6 +95,7 @@ namespace Vocabulary
 
         private async void privacy_click(object sender, RoutedEventArgs e)
         {
+            //Navigate to the privacy url file
             string uriToLaunch = @"http://1drv.ms/1Rx7S9r";
             var uri = new Uri(uriToLaunch);
             await Windows.System.Launcher.LaunchUriAsync(uri);
